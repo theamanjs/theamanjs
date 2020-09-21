@@ -4,7 +4,7 @@
 
 ## I'm a Student, Developer, and Tech Enthusiast!
 
-- 🔭 I’m currently studying in 3rd year and pursuing my bachelors in CS, learning Vue and it's family (Vuetify, Vue Router, Nuxt.js), working as a frontend developer.
+- 🔭 I’m currently pursuing my bachelor's degree in CS and in 3rd year, learning Vue and it's family (Vuetify, Vue Router, Nuxt.js), working as a frontend developer.
 - 👯 I feel awesome while working with others 
 - 🥅 Goals: Contribute more to Open Source community and some more 😉
 - 😛 Fun fact: I love touch typing but my speed is 55 wpm
