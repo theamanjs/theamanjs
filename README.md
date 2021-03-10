@@ -4,10 +4,10 @@
 
 ## I'm a Student, Developer, and Tech Enthusiast!
 
-- 🔭 I’m currently pursuing my bachelor's degree in CS, learning Vue and it's family (Vuetify, Vue Router, Nuxt.js), working as a frontend developer.
+- 🔭 I’m currently pursuing my bachelor's degree in CS, experienced with Vue and learning React, working as a frontend developer.
 - 👯 I feel awesome while working with others 
 - 🥅 Goals: Contribute to Open Source community and some secrets 😉
-- 😛 Fun fact: I love touch typing but my speed is 58 wpm
+- 😛 Fun fact: I love touch typing. My average speed is 80 wpm.
 
 ### Connect with me:
 
