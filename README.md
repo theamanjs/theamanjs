@@ -9,7 +9,7 @@
 - 🥅 Goals: Contribute to Open Source community and some secrets 😉
 - 😛 Fun fact: I love touch typing. My average speed is 85 wpm.
 
-### Connect with me:
+### 🔗 Connect with me:
 
 [<img align="left" alt="theamanjs | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="theamanjs | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
