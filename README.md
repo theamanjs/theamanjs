@@ -7,7 +7,7 @@
 - 🔭 I’m currently pursuing my bachelor's degree in CS, experienced with Vue and learning React, working as a frontend developer.
 - 👯 I feel awesome while working with others 
 - 🥅 Goals: Contribute to Open Source community and some secrets 😉
-- 😛 Fun fact: I love touch typing. My average speed is 80 wpm.
+- 😛 Fun fact: I love touch typing. My average speed is 85 wpm.
 
 ### Connect with me:
 
