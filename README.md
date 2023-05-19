@@ -4,10 +4,10 @@
 
 ## I'm a Student, Developer, and Tech Enthusiast!
 
-- 🔭 I’m currently pursuing my bachelor's degree in CS, experienced with Vue and learning React, working as a frontend developer.
+- 🔭 Full stack developer with experienced in Vue and React
 - 👯 I feel awesome while working with others 
-- 🥅 Goals: Contribute to Open Source community and some secrets 😉
-- 🤓 Geeky Hobby: I love touch typing
+- 🥅 Goals: Contribute to Open Source community as much as I can 😉
+- 🤓 Geeky Hobby: I love touch typing. Let's typerace some time
 
 ### 🔗 Connect with me:
 
