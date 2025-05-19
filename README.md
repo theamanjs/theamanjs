@@ -4,7 +4,7 @@
 
 ## I'm a Student, Developer, and Tech Enthusiast!
 
-- 🔭 Full stack developer with experienced in Vue and React
+- 🔭 Full stack developer with experience in Vue and React
 - 👯 I feel awesome while working with others 
 - 🥅 Goals: Contribute to Open Source community as much as I can 😉
 - 🤓 Geeky Hobby: I love touch typing. Let's typerace some time
